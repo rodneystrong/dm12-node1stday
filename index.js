@@ -5,3 +5,7 @@ Then type 'npm install --save express'
 You'll then see that there's a node_modules folder
 
 */
+
+var express = require('express');
+//we are camelCasing it below because dashes are not valid
+var bodyParser = require('body-parser');

@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/rodneystrong/dm12-node1stday#readme",
   "dependencies": {
+    "body-parser": "^1.15.2",
     "express": "^4.14.0"
   }
 }
